@@ -1,5 +1,6 @@
-# DevDataProductsPres
+DevDataProductsPres
 ==============================
+
 # Course Project
 
 Demo of the submitted version [here](https://m4n0v31.shinyapps.io/SWGeneratorApp).
