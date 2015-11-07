@@ -1,0 +1,51 @@
+---
+title       : Shiny App
+subtitle    : Star Wars Name Generator
+author      : me
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : default      # default, tomorrow
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Motivation
+
+### The new Star Wars Episode **"The Force Awakens"** is almost out...  
+
+### ... and we have to be prepared!  
+
+### This application will help you decide which side you have to support!
+
+--- .class #id 
+
+## Features
+
+### The main goal of the application is to process some information of your person in order to provide you:
+
+1. Your Name 
+2. Your Race
+3. Your Occupation
+
+### in the Star Wars Universe
+
+--- .class #id 
+
+## Is your interest awaken?
+
+### Head out directly to the shiny applicatioin **[HERE](https://m4n0v31.shinyapps.io/SWGeneratorApp)**
+
+--- .class #id 
+
+## Still undecided??!
+
+## Hurry up, when this presentation was slidified, only:
+
+```{r}
+as.numeric(as.Date("2015-12-14")-Sys.Date())
+```
+
+## days were remaining to the premiere.
+
